@@ -68,7 +68,7 @@ my-cli
 ```
 
 ### The Execution Result
-![Execution Result](https://wadehuang36.github.io/assets/images/2017-07-10-build-your-first-cli-1.png)
+![Execution Result](https://wadehuang36.github.io/assets/images/2017-07-10-build-your-first-cli-1.png?v=1)
 
 > when you run `npm install -g build-cli-example-1.0.0.tgz` to install the package, npm will generate `my-cli` (sh file) and `my-cli.cmd` in the npm file.
 Because the npm file is in `PATH`, so when we type `my-cli`. The OS can find `my-cli` to execute.
@@ -184,4 +184,4 @@ Run `npm pack` and `npm install -g` as below to reinstall the package.
 ``` bash
 my-cli --help
 ```
-![Execution Result](https://wadehuang36.github.io/assets/images/2017-07-10-build-your-first-cli-2.png)
+![Execution Result](https://wadehuang36.github.io/assets/images/2017-07-10-build-your-first-cli-2.png?v=2)
