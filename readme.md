@@ -185,6 +185,3 @@ Run `npm pack` and `npm install -g` as below to reinstall the package.
 my-cli --help
 ```
 ![Execution Result](https://wadehuang36.github.io/assets/images/2017-07-10-build-your-first-cli-2.png)
-
-# Summary
-You can see only few lines for building a CLI tool.
