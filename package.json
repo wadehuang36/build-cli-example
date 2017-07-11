@@ -1,0 +1,31 @@
+{
+  "name": "build-cli-example",
+  "version": "1.0.0",
+  "description": "an example of build your first cli",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wadehuang36/build-cli-example.git"
+  },
+  "keywords": [
+    "cli",
+    "node",
+    "npm"
+  ],
+  "bin": {
+    "my-cli": "./bin/my-cli"
+  },
+  "author": "Wade Huang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wadehuang36/build-cli-example/issues"
+  },
+  "homepage": "https://github.com/wadehuang36/build-cli-example#readme",
+  "dependencies": {
+    "command-line-args": "^4.0.6",
+    "command-line-usage": "^4.0.0"
+  }
+}
